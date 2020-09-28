@@ -1,8 +1,8 @@
 {
 //เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
-"Version":"1.18",
+"Version":"1.19",
 //ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
-"Url":"" ,
+"Url":"https://github.com/bangkaew12/bangkaew12/blob/master/bangkaew12.zip" ,
 "Changelog":"
 พบไฟล์ใหม่ (28/05/2020)
 รองรับ ซิม TRUE & DTAC
